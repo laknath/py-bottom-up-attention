@@ -64,7 +64,7 @@ Without Attributes:
    H----------x0 box[0]-----x1 box[2]----
     0                                   W
    ```
-3. If the link breaks, please contact me (at airsplay@cs.unc.edu) directly and I will share you the weight.
+3. If the link breaks, please use this Google Drive: https://drive.google.com/drive/folders/1ICBed8F9JaayAshptGMiGtRj78esg3m4?usp=sharing.
 
 ## External Links
 1. The orignal CAFFE implementation [https://github.com/peteanderson80/bottom-up-attention](https://github.com/peteanderson80/bottom-up-attention), and its [docker image](https://hub.docker.com/r/airsplay/bottom-up-attention).
